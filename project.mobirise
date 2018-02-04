@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Artisti $imo$ Hacking ",
-    "currentPage": "page2.html",
+    "currentPage": "Lil Pump .html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -9,7 +9,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.2",
-    "uniqCompNum": 3,
+    "uniqCompNum": 4,
     "versionPublish": "4.6.2",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/gakuseisean-aire-download-folder-128x128.png",
@@ -19,7 +19,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Artisti",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -48,7 +48,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Artisti",
-          "text": "<a href=\"page1.html\">Sfera Ebbasta&nbsp;</a><br><br><a href=\"page2.html\">Ghali</a><br>",
+          "text": "<a href=\"Sfera Ebbasta .html\" class=\"text-danger\">Sfera Ebbasta&nbsp;</a><br><br><a href=\"Ghali .html\" class=\"text-success\">Ghali</a><br><br><a href=\"Lil Pump .html\" class=\"text-gray\">Lil Pump &nbsp;</a><br><a href=\"page2.html\"><br></a><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"http://ge.tt/4ONY9Ho2\" data-toolbar=\"-mbrBtnMove\">Scarica Qui</a> ",
           "_tags": [
             "Theme"
@@ -59,79 +59,78 @@
         }
       ]
     },
-    "page1.html": {
+    "Lil Pump .html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
-        "title": "Sfera Ebbasta",
-        "order": 2
+        "meta_descr": "Web Page Maker Description",
+        "title": "Lil Pump&nbsp;",
+        "order": 1
       },
       "components": [
         {
           "_params": {
-            "firstType": "default",
-            "secondType": "green",
-            "thirdType": "favorite",
-            "fourthType": "orange",
-            "fifthType": "hidden",
+            "showTitle": true,
+            "showName": true,
+            "showBio": true,
+            "count": 3,
             "paddingTop": 3,
             "paddingBottom": 3,
-            "showButtons": false,
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#f0f0f0",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
+            "bgColor": "#fff",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title1": "Sfera Ebbasta Rockstar",
-          "currency1": "",
-          "price1": "",
-          "period1": "<a href=\"http://ge.tt/4ONY9Ho2\">Download&nbsp;</a>",
-          "list1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
-          "title2": "In futuro...",
-          "currency2": "",
-          "price2": "",
-          "period2": "",
-          "list2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
-          "title3": "in futuro...",
-          "currency3": "",
-          "price3": "",
-          "period3": "",
-          "list3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
-          "title4": "in futuro...",
-          "currency4": "",
-          "price4": "",
-          "period4": "",
-          "list4": "",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DEMO LINK</a>",
-          "title5": "EXTENDED",
-          "currency5": "$",
-          "price5": "0",
-          "period5": "per month",
-          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "header": "LIL Pump&nbsp;",
+          "items": [
+            {
+              "authorName": "",
+              "authorBio": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Download",
+              "text": "Lil Pump Album&nbsp;"
+            },
+            {
+              "authorName": "Download Non Disponibile&nbsp;",
+              "authorBio": "",
+              "text": "&nbsp; IN Futuro..."
+            },
+            {
+              "authorName": "Download non disponibile&nbsp;",
+              "authorBio": "",
+              "text": "In Futuro ..."
+            }
+          ],
           "_tags": [
             "Theme"
           ],
-          "_name": "pricing-table1",
-          "_anchor": "pricing-table1-1"
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-3",
+          "testimonial": [
+            {
+              "authorName": "",
+              "authorBio": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href=\"http://ge.tt/5DJzRQo2\">Download</a>",
+              "text": "Lil Pump Album&nbsp;"
+            },
+            {
+              "authorName": "Download Non Disponibile&nbsp;",
+              "authorBio": "",
+              "text": "&nbsp; IN Futuro..."
+            },
+            {
+              "authorName": "Download non disponibile&nbsp;",
+              "authorBio": "",
+              "text": "In Futuro ..."
+            }
+          ]
         }
       ]
     },
-    "page2.html": {
+    "Ghali .html": {
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Ghali",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -197,6 +196,74 @@
               "font-size": "21px"
             }
           }
+        }
+      ]
+    },
+    "Sfera Ebbasta .html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "Sfera Ebbasta",
+        "order": 3
+      },
+      "components": [
+        {
+          "_params": {
+            "firstType": "default",
+            "secondType": "green",
+            "thirdType": "favorite",
+            "fourthType": "orange",
+            "fifthType": "hidden",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f0f0f0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "Sfera Ebbasta Rockstar",
+          "currency1": "",
+          "price1": "",
+          "period1": "<a href=\"http://ge.tt/4ONY9Ho2\">Download&nbsp;</a>",
+          "list1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title2": "In futuro...",
+          "currency2": "",
+          "price2": "",
+          "period2": "",
+          "list2": "",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title3": "in futuro...",
+          "currency3": "",
+          "price3": "",
+          "period3": "",
+          "list3": "",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title4": "in futuro...",
+          "currency4": "",
+          "price4": "",
+          "period4": "",
+          "list4": "",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">DEMO LINK</a>",
+          "title5": "EXTENDED",
+          "currency5": "$",
+          "price5": "0",
+          "period5": "per month",
+          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-1"
         }
       ]
     }
