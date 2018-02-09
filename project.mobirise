@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Artisti $imo$ Hacking ",
-    "currentPage": "index.html",
+    "currentPage": "MadMan.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -48,7 +48,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Artisti",
-          "text": "<a href=\"Sfera Ebbasta .html\" class=\"text-danger\">Sfera Ebbasta&nbsp;</a><br><br><a href=\"Ghali .html\" class=\"text-success\">Ghali</a><br><br><a href=\"Lil Pump .html\" class=\"text-gray\">Lil Pump &nbsp;</a><br><a href=\"page2.html\"><br></a><a href=\"Mad Man.html\" class=\"text-gray\">Mad Man&nbsp;</a><br><a href=\"page2.html\"><br></a><br>",
+          "text": "<a href=\"Sfera Ebbasta .html\" class=\"text-danger\">Sfera Ebbasta&nbsp;</a><br><br><a href=\"Ghali .html\" class=\"text-success\">Ghali</a><br><br><a href=\"Lil Pump .html\" class=\"text-gray\">Lil Pump &nbsp;</a><br><a href=\"page2.html\"><br></a><a href=\"Mad Man.html\" class=\"text-gray\">MadMan&nbsp;</a><br><a href=\"page2.html\"><br></a><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"http://ge.tt/4ONY9Ho2\" data-toolbar=\"-mbrBtnMove\">Scarica Qui</a> ",
           "_tags": [
             "Theme"
@@ -267,10 +267,10 @@
         }
       ]
     },
-    "Mad Man.html": {
+    "MadMan.html": {
       "settings": {
         "meta_descr": "Web Site Creator Description",
-        "title": "Mad Man",
+        "title": "MadMan",
         "order": 1
       },
       "components": [
@@ -305,7 +305,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "DOWNLOAD MAD MAN BACK HOME ALBUM",
+          "title": "DOWNLOAD MADMAN BACK HOME ALBUM",
           "meta": "By John Smith posted July 30, 2015",
           "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Download 100% sicuro",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://ge.tt/7UI80Wo2\" data-toolbar=\"-mbrBtnMove\">Scarica qui</a>",
