@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Artisti $imo$ Hacking ",
-    "currentPage": "Lil Pump .html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -9,7 +9,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.2",
-    "uniqCompNum": 4,
+    "uniqCompNum": 5,
     "versionPublish": "4.6.2",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/gakuseisean-aire-download-folder-128x128.png",
@@ -48,7 +48,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Artisti",
-          "text": "<a href=\"Sfera Ebbasta .html\" class=\"text-danger\">Sfera Ebbasta&nbsp;</a><br><br><a href=\"Ghali .html\" class=\"text-success\">Ghali</a><br><br><a href=\"Lil Pump .html\" class=\"text-gray\">Lil Pump &nbsp;</a><br><a href=\"page2.html\"><br></a><br>",
+          "text": "<a href=\"Sfera Ebbasta .html\" class=\"text-danger\">Sfera Ebbasta&nbsp;</a><br><br><a href=\"Ghali .html\" class=\"text-success\">Ghali</a><br><br><a href=\"Lil Pump .html\" class=\"text-gray\">Lil Pump &nbsp;</a><br><a href=\"page2.html\"><br></a><a href=\"Mad Man.html\" class=\"text-gray\">Mad Man&nbsp;</a><br><a href=\"page2.html\"><br></a><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"http://ge.tt/4ONY9Ho2\" data-toolbar=\"-mbrBtnMove\">Scarica Qui</a> ",
           "_tags": [
             "Theme"
@@ -63,7 +63,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "Lil Pump&nbsp;",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -130,7 +130,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Ghali",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -203,7 +203,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Sfera Ebbasta",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -264,6 +264,56 @@
           ],
           "_name": "pricing-table1",
           "_anchor": "pricing-table1-1"
+        }
+      ]
+    },
+    "Mad Man.html": {
+      "settings": {
+        "meta_descr": "Web Site Creator Description",
+        "title": "Mad Man",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "DOWNLOAD MAD MAN BACK HOME ALBUM",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Download 100% sicuro",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"http://ge.tt/7UI80Wo2\" data-toolbar=\"-mbrBtnMove\">Scarica qui</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-4"
         }
       ]
     }
