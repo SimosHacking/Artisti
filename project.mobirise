@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Artisti $imo$ Hacking ",
-    "currentPage": "MadMan.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -9,7 +9,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.2",
-    "uniqCompNum": 5,
+    "uniqCompNum": 6,
     "versionPublish": "4.6.2",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/gakuseisean-aire-download-folder-128x128.png",
@@ -48,7 +48,7 @@
             "overlayOpacity": 0.5
           },
           "title": "Artisti",
-          "text": "<a href=\"Sfera Ebbasta .html\" class=\"text-danger\">Sfera Ebbasta&nbsp;</a><br><br><a href=\"Ghali .html\" class=\"text-success\">Ghali</a><br><br><a href=\"Lil Pump .html\" class=\"text-gray\">Lil Pump &nbsp;</a><br><a href=\"page2.html\"><br></a><a href=\"Mad Man.html\" class=\"text-gray\">MadMan&nbsp;</a><br><a href=\"page2.html\"><br></a><br>",
+          "text": "<a href=\"Sfera Ebbasta .html\" class=\"text-danger\">Sfera Ebbasta&nbsp;</a><br><br><a href=\"Ghali .html\" class=\"text-success\">Ghali</a><br><br><a href=\"Lil Pump .html\" class=\"text-gray\">Lil Pump &nbsp;</a><br><a href=\"page2.html\"><br></a><a href=\"Mad Man.html\" class=\"text-gray\">MadMan&nbsp;</a><br><a href=\"page2.html\"><br></a><a href=\"page5.html\" class=\"text-success\">IZI</a><br><a href=\"page2.html\"><br></a><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-warning\" href=\"http://ge.tt/4ONY9Ho2\" data-toolbar=\"-mbrBtnMove\">Scarica Qui</a> ",
           "_tags": [
             "Theme"
@@ -63,7 +63,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "Lil Pump&nbsp;",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -130,7 +130,7 @@
       "settings": {
         "meta_descr": "Site Creator Description",
         "title": "Ghali",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -203,7 +203,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Sfera Ebbasta",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -271,7 +271,7 @@
       "settings": {
         "meta_descr": "Web Site Creator Description",
         "title": "MadMan",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -314,6 +314,80 @@
           ],
           "_name": "msg-box3",
           "_anchor": "msg-box3-4"
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "meta_descr": "Website Creator Description",
+        "title": "IZI",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "firstType": "default",
+            "secondType": "green",
+            "thirdType": "favorite",
+            "fourthType": "orange",
+            "fifthType": "hidden",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f0f0f0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "IZI Fenice",
+          "currency1": "",
+          "price1": "<a href=\"http://ge.tt/2YaT6co2\">download</a>",
+          "period1": "",
+          "list1": "",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title2": "",
+          "currency2": "",
+          "price2": "",
+          "period2": "",
+          "list2": "",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title3": "",
+          "currency3": "",
+          "price3": "",
+          "period3": "",
+          "list3": "",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title4": "",
+          "currency4": "",
+          "price4": "",
+          "period4": "",
+          "list4": "",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "title5": "EXTENDED",
+          "currency5": "$",
+          "price5": "0",
+          "period5": "per month",
+          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-5",
+          "_styles": {
+            "SPAN": {
+              "text-align": "right",
+              "font-size": "25px"
+            }
+          }
         }
       ]
     }
